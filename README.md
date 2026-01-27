@@ -50,12 +50,12 @@ Alex holds a PhD in cell biology, with a background in cancer research, focusing
 <h1 align="center"></h1>
 
 - :computer: PC/Mac/Server:
-    - M2 Macbookair 24G+512G
+    - M2 Macbookair 24G 512G
     - HP i7-1355U 64G 2TSSD RTX2050 WSL2 + Win11
-    - HP AMD-5800U  64G+1TSSD WSL2 + Win11
+    - HP AMD-5800U  64G 1TSSD WSL2 + Win11
     - Lenove U9-185H  96G 4TSSD RTX4060 Ubuntu24.04 + Win11
-    - ASUS AMD-5700G  64G+8T RTX3060 Ubuntu24.04 + Win11
-    - Intel-Xeon E5-2696v4 (22Core-44Threads)*2 256G 1TSSD+8T Ubuntu24.04
+    - ASUS AMD-5700G  64G 2TSSD+4THDD RTX3060 Ubuntu24.04 + Win11
+    - Intel-Xeon E5-2696v4 (22Cores-44Threads)*2 256G 1TSSD+8THDD Ubuntu24.04
  <h1 align="center"></h1>
 
 | 🏘️: | 🖋️: | 📚: |🎥:  |
