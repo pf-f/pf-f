@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pf-f/pf-f.github.io/main/assets/img/avatar.jpg" width="180" alt="Portrait of Alex Fang">
+  <img src="https://github.com/pf-f.png" width="160" alt="pf-f GitHub avatar">
 </p>
 
 ---
